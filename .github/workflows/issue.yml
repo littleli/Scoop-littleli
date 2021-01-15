@@ -5,12 +5,13 @@ name: Issues
 jobs:
   issueHandler:
     runs-on: windows-latest
-    name: Issue Verification
+    name: IssueHandler
     steps:
       - uses: actions/checkout@main
-      - name: Verify Issue
+      - name: IssueHandler
         uses: Ash258/Scoop-GithubActions@stable-win
         if: github.event.action == 'opened' || (github.event.action == 'labeled' && contains(github.event.issue.labels.*.name, 'verify'))
         env:
+          SHOVEL: '1'
           GITH_EMAIL: ales.najmann@gmail.com
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
