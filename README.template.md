@@ -1,3 +1,3 @@
-# Scoop %%BUCKET_NAME%% Bucket %%SAMPLE_MARKDOWN_BADGE_CODE%%
+# Littleli's Scoop Bucket [![Build status](https://ci.appveyor.com/api/projects/status/unf1y3oaybr7m27i/branch/master?svg=true)](https://ci.appveyor.com/project/littleli/scoop-littleli/branch/master)
 
-`scoop bucket add %%NICE_NAME_TO_BE_SHOWN_TO_USER%% '%%HTTPS_GITHUB_REPOSITORY_URL.git%%'`
+`scoop bucket add Scoop-littleli https://github.com/littleli/Scoop-littleli.git`

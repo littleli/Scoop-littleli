@@ -54,4 +54,5 @@
             ".github/workflows/*",
         ],
     },
+    "powershell.codeFormatting.addWhitespaceAroundPipe": true,
 }

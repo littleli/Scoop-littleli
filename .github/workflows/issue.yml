@@ -4,13 +4,13 @@ on:
 name: Issues
 jobs:
   issueHandler:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     name: Issue Verification
     steps:
       - uses: actions/checkout@main
       - name: Verify Issue
-        uses: Ash258/Scoop-GithubActions@stable
+        uses: Ash258/Scoop-GithubActions@stable-win
         if: github.event.action == 'opened' || (github.event.action == 'labeled' && contains(github.event.issue.labels.*.name, 'verify'))
         env:
-          GITH_EMAIL: youremail@email.com
+          GITH_EMAIL: ales.najmann@gmail.com
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
