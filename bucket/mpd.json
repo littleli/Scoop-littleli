@@ -1,0 +1,15 @@
+{
+    "version":  "0.22.3",
+    "description": "MPD can play a variety of sound files while being controlled by its network protocol",
+    "homepage": "https://www.musicpd.org/",
+    "license":  "GPL-2.0",
+    "url": "https://www.musicpd.org/download/win32/0.22.3/mpd.exe",
+    "hash": "5fb781bb3064ab6ed4ff822c2fa75343c72dac34926c91d67dd61adc2d1da6c1",
+    "bin": "mpd.exe",
+    "checkver": {
+        "github": "https://github.com/MusicPlayerDaemon/MPD"
+    },
+    "autoupdate": {
+        "url": "https://www.musicpd.org/download/win32/$version/mpd.exe"
+    }
+}
