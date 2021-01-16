@@ -1,0 +1,21 @@
+{
+    "version": "9.50",
+    "description": "An open source IRC Client written in C# using WinForms",
+    "homepage": "https://www.icechat.net",
+    "license": "MIT",
+    "url": "https://github.com/icechat/IceChat/releases/download/9.50P/icechat-portable.zip",
+    "hash": "0210e3327b57ae59c816fff84fe803a2a93feda1829c23e66bb9ae7fc265f935",
+    "bin": "IceChat2009.exe",
+    "shortcuts": [
+        [
+            "IceChat2009.exe",
+            "IceChat IRC Client"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/icechat/IceChat"
+    },
+    "autoupdate": {
+        "url": "https://github.com/icechat/IceChat/releases/download/$versionP/icechat-portable.zip"
+    }
+}
