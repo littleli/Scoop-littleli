@@ -1,0 +1,28 @@
+{
+    "version": "0.6.0",
+    "description": "Gron transforms JSON into discrete assignments to make it easier to grep",
+    "homepage": "https://github.com/tomnomnom/gron",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/tomnomnom/gron/releases/download/v0.6.0/gron-windows-amd64-0.6.0.zip",
+            "hash": "ae9f72653c183dd9d80e7eab69b80a6c266509273101c91543e1b7a185f0f7ad"
+        },
+        "32bit": {
+            "url": "https://github.com/tomnomnom/gron/releases/download/v0.6.0/gron-windows-386-0.6.0.zip",
+            "hash": "e95968a6721eec8435632411b6541ffafa73626aa952587a49304d24bdbfaa2f"
+        }
+    },
+    "bin": "gron.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/tomnomnom/gron/releases/download/v$version/gron-windows-amd64-$version.zip"
+            },
+            "32bit": {
+                "url": "https://github.com/tomnomnom/gron/releases/download/v$version/gron-windows-386-$version.zip"
+            }
+        }
+    }
+}
