@@ -9,7 +9,6 @@ scoop bucket add scoop-littleli https://github.com/littleli/Scoop-littleli.git
 
 scoop update
 
-scoop install asap
 scoop install dbmate
 scoop install duckdb
 scoop install fselect
@@ -23,7 +22,6 @@ scoop install mpd
 
 | Application | Description |
 |-|-|
-| [ASAP](http://asap.sourceforge.net) | Atari 8-bit chiptunes player and conversion tool. It emulates the POKEY sound chip and the 6502 processor |
 | [DbMate](https://github.com/amacneil/dbmate) | A lightweight, framework-agnostic database migration tool |
 | [DuckDB](https://duckdb.org) | An embeddable SQL OLAP database management system |
 | [Fselect](https://github.com/jhspetersson/fselect) | Find files with SQL-like queries |
