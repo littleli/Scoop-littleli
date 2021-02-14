@@ -10,6 +10,7 @@ scoop bucket add scoop-littleli https://github.com/littleli/Scoop-littleli.git
 scoop update
 
 scoop install dbmate
+scoop install doom-remake4
 scoop install duckdb
 scoop install fselect
 scoop install gron
@@ -23,6 +24,7 @@ scoop install mpd
 | Application | Description |
 |-|-|
 | [DbMate](https://github.com/amacneil/dbmate) | A lightweight, framework-agnostic database migration tool |
+| [Doom Remake 4](https://archive.org/details/doom_remake_4_download) | Mod compilation pack to bring Doom into the modern era |
 | [DuckDB](https://duckdb.org) | An embeddable SQL OLAP database management system |
 | [Fselect](https://github.com/jhspetersson/fselect) | Find files with SQL-like queries |
 | [Gron](https://github.com/tomnomnom/gron) | Transform JSON into discrete assignments to make it easier to grep |
