@@ -1,4 +1,5 @@
-# Littleli's personal scoop bucket
+# Littleli's personal scoop bucket [![Build status](https://ci.appveyor.com/api/projects/status/unf1y3oaybr7m27i/branch/master?svg=true)](https://ci.appveyor.com/project/littleli/scoop-littleli/branch/master)
+
 
 This is a collection of interesting Windows applications I use from time to time.
 
