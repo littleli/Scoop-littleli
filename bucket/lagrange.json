@@ -22,8 +22,10 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "64bit": {
-            "url": "https://github.com/skyjake/lagrange/releases/download/v$version/lagrange_v$version_windows-x64_portable.zip"
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/skyjake/lagrange/releases/download/v$version/lagrange_v$version_windows-x64_portable.zip"
+            }
         }
     }
 }
