@@ -11,7 +11,7 @@
     "bin": "NetMet.exe",
     "checkver": {
         "url": "http://mitec.cz/Data/XML/data_downloads.xml",
-        "re": "MiTeC Network Meter ([\\d.]+)"
+        "regex": "MiTeC Network Meter ([\\d.]+)"
     },
     "autoupdate": {
         "url": "http://mitec.cz/Downloads/NetMet.zip"
