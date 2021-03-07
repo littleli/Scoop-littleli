@@ -1,0 +1,36 @@
+{
+    "version": "3.3.0",
+    "description": "Reads and displays executable file properties and structure",
+    "homepage": "http://mitec.cz/exe.html",
+    "license": {
+        "identifier": "Freeware",
+        "url": "http://mitec.cz/exe.html#licence"
+    },
+    "url": "http://mitec.cz/Downloads/EXE.zip",
+    "hash": "4481bc013298414b0510ecf467fa44fcb7bd9798651a912ec328d993cab04a4a",
+    "architecture": {
+        "64bit": {
+            "bin": [
+                [
+                    "EXE64.exe",
+                    "exe"
+                ]
+            ]
+        },
+        "32bit": {
+            "bin": [
+                [
+                    "EXE.exe",
+                    "exe"
+                ]
+            ]
+        }
+    },
+    "checkver": {
+        "url": "http://mitec.cz/Data/XML/data_downloads.xml",
+        "re": "MiTeC EXE Explorer 32/64 ([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "http://mitec.cz/Downloads/EXE.zip"
+    }
+}
