@@ -20,7 +20,7 @@
     ],
     "checkver": {
         "url": "http://mitec.cz/Data/XML/data_downloads.xml",
-        "re": "MiTeC System Information X 32-bit ([\\d.]+)"
+        "regex": "MiTeC System Information X 32-bit ([\\d.]+)"
     },
     "autoupdate": {
         "url": "http://mitec.cz/Downloads/MSIX.ZIP"
