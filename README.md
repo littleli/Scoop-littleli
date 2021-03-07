@@ -1,6 +1,5 @@
 # Littleli's personal scoop bucket [![Build status](https://ci.appveyor.com/api/projects/status/unf1y3oaybr7m27i/branch/master?svg=true)](https://ci.appveyor.com/project/littleli/scoop-littleli/branch/master)
 
-
 This is a collection of interesting Windows applications I use from time to time.
 
 ## Installation
@@ -42,3 +41,21 @@ scoop install mpd
 | [IceChat](https://www.icechat.net) | An open source IRC Client written in C# using WinForms |
 | [Lagrange](https://github.com/skyjake/lagrange) | A desktop GUI client for browsing Geminispace |
 | [MPD](https://www.musicpd.org) | Famous MPD. It can play a variety of sound files while being controlled by its network protocol |
+
+## Utilities from MiTeC
+
+Check [author's webpage](http://mitec.cz/index.html). For noncommercial use only.
+
+```sh
+scoop install exe-explorer
+scoop install netmet
+scoop install msix
+scoop install sqliteq
+```
+
+| Application | Description |
+|-|-|
+| [EXE Explorer](http://mitec.cz/exe.html) | Executable File Explorer for OS/2, NE, PE32, PE32+ and VxD file types |
+| [Network Meter](http://mitec.cz/netmet.html) | Tool for network traffic measuring |
+| [System Information X](http://mitec.cz/msi.html) | Full-featured system information about your system |
+| [SQlite Query](http://mitec.cz/sqliteq.html) | A must-have tool for SQLite3 databases administration and data manipulation |
