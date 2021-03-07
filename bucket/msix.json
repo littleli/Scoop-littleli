@@ -1,0 +1,28 @@
+{
+    "version": "4.0.0",
+    "description": "Full-featured system information about your system",
+    "homepage": "http://mitec.cz/msi.html",
+    "license": {
+        "identifier": "Freeware",
+        "url": "http://mitec.cz/msi.html#license"
+    },
+    "url": "http://mitec.cz/Downloads/MSIX.ZIP",
+    "hash": "61bcd54419862267db875a2c121389e99cd25df991c0cacec869ef8e102fb433",
+    "bin": [
+        "MSIX.exe",
+        "GetSys.exe"
+    ],
+    "shortcuts": [
+        [
+            "MSIX.exe",
+            "MiTeC System Information X"
+        ]
+    ],
+    "checkver": {
+        "url": "http://mitec.cz/Data/XML/data_downloads.xml",
+        "re": "MiTeC System Information X 32-bit ([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "http://mitec.cz/Downloads/MSIX.ZIP"
+    }
+}
