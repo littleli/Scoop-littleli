@@ -28,7 +28,7 @@
     },
     "checkver": {
         "url": "http://mitec.cz/Data/XML/data_downloads.xml",
-        "re": "MiTeC EXE Explorer 32/64 ([\\d.]+)"
+        "regex": "MiTeC EXE Explorer 32/64 ([\\d.]+)"
     },
     "autoupdate": {
         "url": "http://mitec.cz/Downloads/EXE.zip"
