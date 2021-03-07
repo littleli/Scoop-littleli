@@ -1,0 +1,19 @@
+{
+    "version": "2.3.0",
+    "description": "Scans for network interfaces and adapters installed in system and their monitoring",
+    "homepage": "http://mitec.cz/netmet.html",
+    "license": {
+        "identifier": "Freeware",
+        "url": "http://mitec.cz/netmet.html#license"
+    },
+    "url": "http://mitec.cz/Downloads/NetMet.zip",
+    "hash": "ecebf7f87f22d5a3b0fb2d19f6309d83b02dc81da2b769948511c926e9f99047",
+    "bin": "NetMet.exe",
+    "checkver": {
+        "url": "http://mitec.cz/Data/XML/data_downloads.xml",
+        "regex": "MiTeC Network Meter ([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "http://mitec.cz/Downloads/NetMet.zip"
+    }
+}
