@@ -32,6 +32,7 @@ scoop install zecwallet-cli
 |-|-|
 | [AGate](https://github.com/mbrubeck/agate) | A very simple server for the Gemini hypertext protocol |
 | [Amfora](https://github.com/makeworld-the-better-one/amfora) | A fancy terminal browser for the Gemini protocol |
+| [Csvdiff](https://aswinkarthik.github.io/csvdiff) | A fast diff tool for comparing csv files |
 | [Csvq](https://mithrandie.github.io/csvq) | SQL-like query language for csv |
 | [DbMate](https://github.com/amacneil/dbmate) | A lightweight, framework-agnostic database migration tool |
 | [Doom Remake 4](https://archive.org/details/doom_remake_4_download) | Mod compilation pack to bring Doom into the modern era |
