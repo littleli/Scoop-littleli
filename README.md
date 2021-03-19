@@ -11,6 +11,7 @@ scoop update
 
 scoop install agate
 scoop install amfora
+scoop install csvdiff
 scoop install csvq
 scoop install dbmate
 scoop install doom-remake4
