@@ -7,7 +7,7 @@
         "url": "http://mitec.cz/msi.html#license"
     },
     "url": "http://mitec.cz/Downloads/MSIX.ZIP",
-    "hash": "61bcd54419862267db875a2c121389e99cd25df991c0cacec869ef8e102fb433",
+    "hash": "6a60a760ecbacda9300f0743dddf951d117098461f72cc29f935a5614573b1cb",
     "pre_install": [
         "Remove-Item \"$dir\\MSIX64.exe\" -Force",
         "Remove-Item \"$dir\\GetSys64.exe\" -Force"
