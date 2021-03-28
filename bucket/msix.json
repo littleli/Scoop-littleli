@@ -1,5 +1,5 @@
 {
-    "version": "4.0.0",
+    "version": "4.1.0",
     "description": "Full-featured system information about your system",
     "homepage": "http://mitec.cz/msi.html",
     "license": {
@@ -8,6 +8,10 @@
     },
     "url": "http://mitec.cz/Downloads/MSIX.ZIP",
     "hash": "61bcd54419862267db875a2c121389e99cd25df991c0cacec869ef8e102fb433",
+    "pre_install": [
+        "Remove-Item \"$dir\\MSIX64.exe\" -Force",
+        "Remove-Item \"$dir\\GetSys64.exe\" -Force"
+    ],
     "bin": [
         "MSIX.exe",
         "GetSys.exe"
@@ -20,7 +24,7 @@
     ],
     "checkver": {
         "url": "http://mitec.cz/Data/XML/data_downloads.xml",
-        "regex": "MiTeC System Information X 32-bit ([\\d.]+)"
+        "regex": "MiTeC System Information X 32/64-bit ([\\d.]+)"
     },
     "autoupdate": {
         "url": "http://mitec.cz/Downloads/MSIX.ZIP"
