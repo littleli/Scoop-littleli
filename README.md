@@ -23,6 +23,7 @@ scoop install hercules
 scoop install icechat
 scoop install lagrange
 scoop install mpd
+scoop install qmmp
 scoop install zecwallet-lite
 scoop install zecwallet-cli
 ```
@@ -45,6 +46,7 @@ scoop install zecwallet-cli
 | [IceChat](https://www.icechat.net) | An open source IRC Client written in C# using WinForms |
 | [Lagrange](https://github.com/skyjake/lagrange) | A desktop GUI client for browsing Geminispace |
 | [MPD](https://www.musicpd.org) | Famous MPD. It can play a variety of sound files while being controlled by its network protocol |
+| [Qmmp](http://qmmp.ylsoftware.com) | Qt-based Multimedia Player |
 | [Zecwallet Lite](https://www.zecwallet.co) | ZCash Wallet Desktop Client application |
 | [Zecwallet CLI](https://www.zecwallet.co) | ZCash command-line interface utility |
 
