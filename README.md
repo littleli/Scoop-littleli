@@ -21,6 +21,7 @@ scoop install gemget
 scoop install gron
 scoop install hercules
 scoop install icechat
+scoop install janet
 scoop install lagrange
 scoop install mpd
 scoop install qmmp
@@ -44,6 +45,7 @@ scoop install zecwallet-cli
 | [Gron](https://github.com/tomnomnom/gron) | Transform JSON into discrete assignments to make it easier to grep |
 | [Hercules](https://github.com/src-d/hercules) | Acquire advanced insights from Git repository history |
 | [IceChat](https://www.icechat.net) | An open source IRC Client written in C# using WinForms |
+| [Janet](https://janet-lang.org) | Janet is a lisp-like, embeddable, functional and imperative programming language and bytecode interpreter |
 | [Lagrange](https://github.com/skyjake/lagrange) | A desktop GUI client for browsing Geminispace |
 | [MPD](https://www.musicpd.org) | Famous MPD. It can play a variety of sound files while being controlled by its network protocol |
 | [Qmmp](http://qmmp.ylsoftware.com) | Qt-based Multimedia Player |
