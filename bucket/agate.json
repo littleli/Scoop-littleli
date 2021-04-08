@@ -1,12 +1,12 @@
 {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "description": "Very simple server for the Gemini hypertext protocol",
     "homepage": "https://github.com/mbrubeck/agate",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mbrubeck/agate/releases/download/v3.0.1/agate.x86_64-pc-windows-msvc.zip",
-            "hash": "d941cb31f058bfd05e515cd03781ed1d3b8a4b57a5be32847762236a7bf75787"
+            "url": "https://github.com/mbrubeck/agate/releases/download/v3.0.2/agate.x86_64-pc-windows-msvc.zip",
+            "hash": "262fbe72b76c0b11e313b0d0a47adfcf1a6bbd67144f60634e714e3d2877bd7e"
         }
     },
     "bin": "agate.exe",
