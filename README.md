@@ -19,6 +19,7 @@ scoop install duckdb
 scoop install fselect
 scoop install gemget
 scoop install gron
+scoop install harbour
 scoop install hercules
 scoop install icechat
 scoop install janet
@@ -43,6 +44,7 @@ scoop install zecwallet-cli
 | [Fselect](https://github.com/jhspetersson/fselect) | Find files with SQL-like queries |
 | [Gemget](https://github.com/makeworld-the-better-one/gemget) | Command line downloader for the Gemini protocol |
 | [Gron](https://github.com/tomnomnom/gron) | Transform JSON into discrete assignments to make it easier to grep |
+| [Harbour](https://harbour.github.io) | The cross-platform xBase |
 | [Hercules](https://github.com/src-d/hercules) | Acquire advanced insights from Git repository history |
 | [IceChat](https://www.icechat.net) | An open source IRC Client written in C# using WinForms |
 | [Janet](https://janet-lang.org) | Janet is a lisp-like, embeddable, functional and imperative programming language and bytecode interpreter |
