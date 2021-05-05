@@ -3,7 +3,7 @@
     "description": "The compiler for the xBase superset language often referred to as Clipper",
     "homepage": "https://harbour.github.io",
     "license": {
-        "description": "Proprietary",
+        "identifier": "Proprietary",
         "url": "https://github.com/harbour/core/blob/master/LICENSE.txt"
     },
     "url": "https://downloads.sourceforge.net/project/harbour-project/binaries-windows/3.0.0/harbour-3.0.0-win.7z",
