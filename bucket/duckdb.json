@@ -6,11 +6,11 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/cwida/duckdb/releases/download/v0.2.6/duckdb_cli-windows-amd64.zip",
-            "hash": "5c2b3efdb947495933852c19f1e1bf08a02fecd6bf491acb14837a6e07b1612e"
+            "hash": "d5f98872505737b7fa380ae1374250219c5d33defde2990683a7f9c34f221aa8"
         },
         "32bit": {
             "url": "https://github.com/cwida/duckdb/releases/download/v0.2.6/duckdb_cli-windows-i386.zip",
-            "hash": "d707d7384f7da3afbd627b4cccf26687b80d908bcc3a86f76d2fb8fa49e8e89d"
+            "hash": "52aee7afa70840cb229beb880e9b6382197597e06da2af4f962db0d3877929e3"
         }
     },
     "bin": "duckdb.exe",
