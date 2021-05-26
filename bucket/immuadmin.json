@@ -1,0 +1,39 @@
+{
+    "version": "1.0.0",
+    "description": "World's fastest immutable database - client",
+    "homepage": "https://www.codenotary.com/technologies/immudb/",
+    "license": "Apache-2.0",
+    "architecture": {
+        "64bit": {
+            "url": [
+                "https://github.com/vchain-us/immudb/releases/download/v1.0.0/immuadmin-v1.0.0-windows-amd64.exe#/immuadmin.exe",
+                "https://github.com/vchain-us/immudb/releases/download/v1.0.0/immuclient-v1.0.0-windows-amd64.exe#/immuclient.exe",
+                "https://github.com/vchain-us/immudb/releases/download/v1.0.0/immudb-v1.0.0-windows-amd64.exe#/immudb.exe"
+            ],
+            "hash": [
+                "859c719780a674cf4d94955c66cee674bfe97265993aa4e75753a6f660e250d2",
+                "fb15099ac338ea0955480be93c4839488aad785e33a31e20e845dd31d7825f4a",
+                "fd3764800cdd123e2eeeec62f21ba3705ac54eeccfc879e805e1901516c931cc"
+            ]
+        }
+    },
+    "bin": [
+        "immuadmin.exe",
+        "immuclient.exe",
+        "immudb.exe"
+    ],
+    "checkver": {
+        "github": "https://github.com/codenotary/immudb"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": [
+                    "https://github.com/vchain-us/immudb/releases/download/v$version/immuadmin-v$version-windows-amd64.exe#/immuadmin.exe",
+                    "https://github.com/vchain-us/immudb/releases/download/v$version/immuclient-v$version-windows-amd64.exe#/immuclient.exe",
+                    "https://github.com/vchain-us/immudb/releases/download/v$version/immudb-v$version-windows-amd64.exe#/immudb.exe"
+                ]
+            }
+        }
+    }
+}
