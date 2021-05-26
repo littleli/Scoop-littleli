@@ -22,6 +22,7 @@ scoop install gron
 scoop install harbour
 scoop install hercules
 scoop install icechat
+scoop install immuadmin immuclient immudb
 scoop install janet
 scoop install lagrange
 scoop install mpd
@@ -47,6 +48,7 @@ scoop install zecwallet-cli
 | [Harbour](https://harbour.github.io) | The cross-platform xBase |
 | [Hercules](https://github.com/src-d/hercules) | Acquire advanced insights from Git repository history |
 | [IceChat](https://www.icechat.net) | An open source IRC Client written in C# using WinForms |
+| [ImmuDB](https://github.com/codenotary/immudb) | World's fastest immutable database. Admin, client and server |
 | [Janet](https://janet-lang.org) | Janet is a lisp-like, embeddable, functional and imperative programming language and bytecode interpreter |
 | [Lagrange](https://github.com/skyjake/lagrange) | A desktop GUI client for browsing Geminispace |
 | [MPD](https://www.musicpd.org) | Famous MPD. It can play a variety of sound files while being controlled by its network protocol |
