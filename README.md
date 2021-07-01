@@ -14,6 +14,7 @@ scoop install amfora
 scoop install csvdiff
 scoop install csvq
 scoop install dbmate
+scoop install dooble
 scoop install doom-remake4
 scoop install duckdb
 scoop install fselect
@@ -40,6 +41,7 @@ scoop install zecwallet-cli
 | [Csvdiff](https://aswinkarthik.github.io/csvdiff) | A fast diff tool for comparing csv files |
 | [Csvq](https://mithrandie.github.io/csvq) | SQL-like query language for csv |
 | [DbMate](https://github.com/amacneil/dbmate) | A lightweight, framework-agnostic database migration tool |
+| [Dooble](https://textbrowser.github.io/dooble/) | The scientific browser. Minimal, cute, and unusually stable. Completed. |
 | [Doom Remake 4](https://archive.org/details/doom_remake_4_download) | Mod compilation pack to bring Doom into the modern era |
 | [DuckDB](https://duckdb.org) | An embeddable SQL OLAP database management system |
 | [Fselect](https://github.com/jhspetersson/fselect) | Find files with SQL-like queries |
