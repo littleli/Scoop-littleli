@@ -27,6 +27,7 @@ scoop install immuadmin immuclient immudb
 scoop install janet
 scoop install lagrange
 scoop install mpd
+scoop install otter-browser
 scoop install qmmp
 scoop install zecwallet-lite
 scoop install zecwallet-cli
@@ -54,6 +55,7 @@ scoop install zecwallet-cli
 | [Janet](https://janet-lang.org) | Janet is a lisp-like, embeddable, functional and imperative programming language and bytecode interpreter |
 | [Lagrange](https://github.com/skyjake/lagrange) | A desktop GUI client for browsing Geminispace |
 | [MPD](https://www.musicpd.org) | Famous MPD. It can play a variety of sound files while being controlled by its network protocol |
+| [Otter Browser](https://otter-browser.org/) | Browser that aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5  |
 | [Qmmp](http://qmmp.ylsoftware.com) | Qt-based Multimedia Player |
 | [Zecwallet Lite](https://www.zecwallet.co) | ZCash Wallet Desktop Client application |
 | [Zecwallet CLI](https://www.zecwallet.co) | ZCash command-line interface utility |
