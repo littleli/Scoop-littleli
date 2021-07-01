@@ -1,13 +1,13 @@
 {
-    "version": "1.7.0",
+    "version": "1.7.1",
     "description": "Zecwallet Lightclient Library and CLI interface",
     "homepage": "https://www.zecwallet.co",
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/adityapk00/zecwallet-light-cli/releases/download/v1.7.0/Windows-zecwallet-cli-v1.7.0.zip",
-            "hash": "f5bb5e6a06c17c5ad625fff0dcf84eac19d8d6badda23fc46be5c0d1d9f80895",
-            "extract_dir": "Windows-zecwallet-cli-v1.7.0",
+            "url": "https://github.com/adityapk00/zecwallet-light-cli/releases/download/v1.7.1/Windows-zecwallet-cli-v1.7.1.zip",
+            "hash": "09c847e049555ea77f08ed34da3aa21bdcecd90e0c1a259615acd7ce9be2b47c",
+            "extract_dir": "Windows-zecwallet-cli-v1.7.1",
             "bin": "zecwallet-cli.exe"
         }
     },
