@@ -25,6 +25,7 @@ scoop install hercules
 scoop install icechat
 scoop install immuadmin immuclient immudb
 scoop install janet
+scoop install jedit
 scoop install lagrange
 scoop install mpd
 scoop install otter-browser
@@ -53,6 +54,7 @@ scoop install zecwallet-cli
 | [IceChat](https://www.icechat.net) | An open source IRC Client written in C# using WinForms |
 | [ImmuDB](https://github.com/codenotary/immudb) | World's fastest immutable database. Admin, client and server |
 | [Janet](https://janet-lang.org) | Janet is a lisp-like, embeddable, functional and imperative programming language and bytecode interpreter |
+| [JEdit](http://jedit.org) | Programmer's Text Editor |
 | [Lagrange](https://github.com/skyjake/lagrange) | A desktop GUI client for browsing Geminispace |
 | [MPD](https://www.musicpd.org) | Famous MPD. It can play a variety of sound files while being controlled by its network protocol |
 | [Otter Browser](https://otter-browser.org/) | Browser that aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5  |
