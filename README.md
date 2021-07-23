@@ -30,6 +30,7 @@ scoop install lagrange
 scoop install mpd
 scoop install otter-browser
 scoop install qmmp
+sooop install zcashd
 scoop install zecwallet-lite
 scoop install zecwallet-cli
 ```
@@ -59,6 +60,7 @@ scoop install zecwallet-cli
 | [MPD](https://www.musicpd.org) | Famous MPD. It can play a variety of sound files while being controlled by its network protocol |
 | [Otter Browser](https://otter-browser.org/) | Browser that aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5  |
 | [Qmmp](http://qmmp.ylsoftware.com) | Qt-based Multimedia Player |
+| [ZCashD](https://z.cash) | ZCash fullnode, daemon and cli tool |
 | [Zecwallet Lite](https://www.zecwallet.co) | ZCash Wallet Desktop Client application |
 | [Zecwallet CLI](https://www.zecwallet.co) | ZCash command-line interface utility |
 
