@@ -1,0 +1,26 @@
+{
+    "version": "4.4.1",
+    "description": "Zecwallet Fullnode",
+    "homepage": "https://z.cash",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/adityapk00/zcash/releases/download/v4.4.1/zcash-windows-v4.4.1.zip",
+            "hash": "ef1dc065e02a04e4e1d11149647309e79f73b2ddaaa782d3888be33331737f4b",
+            "bin": [
+                "zcashd.exe",
+                "zcash-cli.exe"
+            ]
+        }
+    },
+    "checkver": {
+        "github": "https://github.com/adityapk00/zcash"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/adityapk00/zcash/releases/download/v$version/zcash-windows-v$version.zip"
+            }
+        }
+    }
+}
