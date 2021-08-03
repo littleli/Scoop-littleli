@@ -1,12 +1,12 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.5",
     "description": "World's fastest immutable database - client",
     "homepage": "https://www.codenotary.com/technologies/immudb/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vchain-us/immudb/releases/download/v1.0.1/immuclient-v1.0.1-windows-amd64.exe#/immuclient.exe",
-            "hash": "e9991880454417fd9fc8940836b4944c5ad2168a1692c65b0a70c56427c9ba52"
+            "url": "https://github.com/vchain-us/immudb/releases/download/v1.0.5/immuclient-v1.0.5-windows-amd64.exe#/immuclient.exe",
+            "hash": "3f93580e40f401ebaf4df4e3c5a13831a87fc8a0b810419e3ebf7dbca912d2d3"
         }
     },
     "bin": "immuclient.exe",
