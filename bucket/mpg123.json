@@ -22,8 +22,8 @@
         "out123.exe"
     ],
     "checkver": {
-        "url": "https://www.mpg123.org",
-        "regex": "version ([\\d.]+)"
+        "url": "https://www.mpg123.org/download.shtml",
+        "regex": "download\/win64\/([\\d.]+)\/"
     },
     "autoupdate": {
         "architecture": {
