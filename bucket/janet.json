@@ -21,10 +21,7 @@
         "JANET_HEADERPATH": "$dir\\C",
         "JANET_LIBPATH": "$dir\\C"
     },
-    "bin": [
-        "bin\\janet.exe",
-        "bin\\jpm.bat"
-    ],
+    "bin": "bin\\janet.exe",
     "checkver": {
         "github": "https://github.com/janet-lang/janet"
     },
