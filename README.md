@@ -32,6 +32,7 @@ scoop install mpd
 scoop install mpg123
 scoop install otter-browser
 scoop install qmmp
+scoop install vlang
 sooop install zcashd
 scoop install zecwallet-lite
 scoop install zecwallet-cli
@@ -63,6 +64,7 @@ scoop install zecwallet-cli
 | [Mpg123](https://www.mpg123.org) | Fast console MPEG Audio Player and decoder library |
 | [Otter Browser](https://otter-browser.org/) | Browser that aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5  |
 | [Qmmp](http://qmmp.ylsoftware.com) | Qt-based Multimedia Player |
+| [Vlang](https://vlang.io) | Simple, fast, safe, compiled. For developing maintainable software |
 | [ZCashD](https://z.cash) | ZCash fullnode, daemon and cli tool |
 | [Zecwallet Lite](https://www.zecwallet.co) | ZCash Wallet Desktop Client application |
 | [Zecwallet CLI](https://www.zecwallet.co) | ZCash command-line interface utility |
