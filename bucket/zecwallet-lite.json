@@ -1,5 +1,5 @@
 {
-    "version": "1.7.4",
+    "version": "1.7.5",
     "description": "Zecwallet Lite is a fully featured shielded wallet for Zcash",
     "homepage": "https://www.zecwallet.co",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/adityapk00/zecwallet-lite/releases/download/v1.7.4/Zecwallet.Lite-1.7.4-win.zip",
-            "hash": "0cb4f4d01bdd1d61c6f6076daf4160bbb5cc3c3276eb1e284f98db99b30168e6",
+            "url": "https://github.com/adityapk00/zecwallet-lite/releases/download/v1.7.5/Zecwallet.Lite-1.7.5-win.zip",
+            "hash": "f964b2c490b519eb8172cc6921979ff07163221abc14beba150595cc8ee76b8e",
             "bin": "Zecwallet Lite.exe",
             "shortcuts": [
                 [
