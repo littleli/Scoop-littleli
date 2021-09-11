@@ -30,6 +30,7 @@ scoop install jedit
 scoop install lagrange
 scoop install mpd
 scoop install mpg123
+scoop install netsurf
 scoop install otter-browser
 scoop install qmmp
 scoop install vlang
@@ -62,6 +63,7 @@ scoop install zecwallet-cli
 | [Lagrange](https://github.com/skyjake/lagrange) | A desktop GUI client for browsing Geminispace |
 | [MPD](https://www.musicpd.org) | Famous MPD. It can play a variety of sound files while being controlled by its network protocol |
 | [Mpg123](https://www.mpg123.org) | Fast console MPEG Audio Player and decoder library |
+| [NetSurf](https://www.netsurf-browser.org) | NetSurf is a multi-platform web browser |
 | [Otter Browser](https://otter-browser.org/) | Browser that aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5  |
 | [Qmmp](http://qmmp.ylsoftware.com) | Qt-based Multimedia Player |
 | [Vlang](https://vlang.io) | Simple, fast, safe, compiled. For developing maintainable software |
