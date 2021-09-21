@@ -28,6 +28,7 @@ scoop install immuadmin immuclient immudb
 scoop install janet
 scoop install jedit
 scoop install lagrange
+scoop install llvm-mingw
 scoop install mpd
 scoop install mpg123
 scoop install netsurf
@@ -61,6 +62,7 @@ scoop install zecwallet-cli
 | [Janet](https://janet-lang.org) | Janet is a lisp-like, embeddable, functional and imperative programming language and bytecode interpreter |
 | [JEdit](http://jedit.org) | Programmer's Text Editor |
 | [Lagrange](https://github.com/skyjake/lagrange) | A desktop GUI client for browsing Geminispace |
+| [LLVM-MinGW](https://github.com/mstorsjo/llvm-mingw) | An LLVM/Clang/LLD based mingw-w64 toolchain |
 | [MPD](https://www.musicpd.org) | Famous MPD. It can play a variety of sound files while being controlled by its network protocol |
 | [Mpg123](https://www.mpg123.org) | Fast console MPEG Audio Player and decoder library |
 | [NetSurf](https://www.netsurf-browser.org) | NetSurf is a multi-platform web browser |
