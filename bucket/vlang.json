@@ -1,5 +1,5 @@
 {
-    "version": "0.2.4",
+    "version": "2021.38",
     "description": "The V Programming Language. Simple, fast, safe, compiled.",
     "homepage": "https://vlang.io",
     "license": "MIT",
@@ -7,14 +7,15 @@
     "suggest": {
         "An LLVM/Clang/LLD based mingw-w64 toolchain": "Scoop-littleli/llvm-mingw"
     },
-    "url": "https://github.com/vlang/v/releases/download/0.2.4/v_windows.zip",
-    "hash": "30fd4a6773f9bf55f0ef3a0aefa52df77ce6a3035836c283bb1bf5d8e6412499",
+    "url": "https://github.com/vlang/v/releases/download/weekly.2021.38/v_windows.zip",
+    "hash": "71d7b2c660b40dfbe5d0c6e9cbf2549fd6b2599055ed8ab6f8c2760c29b88f04",
     "extract_dir": "v",
     "bin": "v.exe",
     "checkver": {
-        "github": "https://github.com/vlang/v"
+        "regex": "\/releases\/tag\/weekly\\.([\\d.]+)",
+        "url": "https://github.com/vlang/v/releases/latest"
     },
     "autoupdate": {
-        "url": "https://github.com/vlang/v/releases/download/$version/v_windows.zip"
+        "url": "https://github.com/vlang/v/releases/download/weekly.$version/v_windows.zip"
     }
 }
