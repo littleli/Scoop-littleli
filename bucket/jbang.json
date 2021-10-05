@@ -1,17 +1,17 @@
 {
-    "version": "0.81.0",
+    "version": "0.81.1",
     "description": "To learn, explore or use Java instantly without setup.",
     "homepage": "https://jbang.dev",
     "license": "MIT",
-    "extract_dir": "jbang-0.81.0",
+    "extract_dir": "jbang-0.81.1",
     "suggest": {
         "JDK": [
             "java/oraclejdk",
             "java/openjdk"
         ]
     },
-    "url": "https://github.com/jbangdev/jbang/releases/download/v0.81.0/jbang-0.81.0.zip",
-    "hash": "b1228fd8755406cc280aed4834d414f876efc35b0b1cc96d13a395ff6b58ac87",
+    "url": "https://github.com/jbangdev/jbang/releases/download/v0.81.1/jbang-0.81.1.zip",
+    "hash": "8d3d6e1a1862828e72c4f3304305d145e719dd689520dbc93f5e627e2aa72c04",
     "bin": "bin\\jbang.cmd",
     "checkver": {
         "github": "https://github.com/jbangdev/jbang"
