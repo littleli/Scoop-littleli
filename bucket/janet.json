@@ -1,16 +1,16 @@
 {
-    "version": "1.18.0",
+    "version": "1.18.1",
     "description": "Janet is a lisp-like, embeddable, functional and imperative programming language and bytecode interpreter.",
     "homepage": "https://janet-lang.org",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/janet-lang/janet/releases/download/v1.18.0/janet-v1.18.0-windows-x64-installer.msi",
-            "hash": "4f7c1acc4d1a3dd4053bb64ba38355d26e00e33335b48bd693a9ec03c9316a5d"
+            "url": "https://github.com/janet-lang/janet/releases/download/v1.18.1/janet-v1.18.1-windows-x64-installer.msi",
+            "hash": "13961558fe588decd4441ba6ddcd93bc8ae441e0c1d57e6a99c55e0093f6f330"
         },
         "32bit": {
-            "url": "https://github.com/janet-lang/janet/releases/download/v1.18.0/janet-v1.18.0-windows-x86-installer.msi",
-            "hash": "fdd52f79adac87ffc83a4dbdfd3431c5427f60f7a503109bafefeff4e11b3c99"
+            "url": "https://github.com/janet-lang/janet/releases/download/v1.18.1/janet-v1.18.1-windows-x86-installer.msi",
+            "hash": "ba192e97364dc357b846b0bd9fc9dd0a6fd894c9048e4b88c471568b838171ee"
         }
     },
     "extract_dir": "Janet",
