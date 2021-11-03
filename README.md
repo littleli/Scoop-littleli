@@ -34,6 +34,7 @@ scoop install mpg123
 scoop install netsurf
 scoop install otter-browser
 scoop install qmmp
+scoop install slu
 scoop install vlang
 scoop install wait-for-it
 sooop install zcashd
@@ -69,6 +70,7 @@ scoop install zecwallet-cli
 | [NetSurf](https://www.netsurf-browser.org) | NetSurf is a multi-platform web browser |
 | [Otter Browser](https://otter-browser.org/) | Browser that aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5  |
 | [Qmmp](http://qmmp.ylsoftware.com) | Qt-based Multimedia Player |
+| [Slu](https://github.com/sikalabs/slu) | Sika Labs utilities |
 | [Vlang](https://vlang.io) | Simple, fast, safe, compiled. For developing maintainable software |
 | [Wait-for-it](https://github.com/roerohan/wait-for-it) | Wait on the availability of a TCP host and port |
 | [ZCashD](https://z.cash) | ZCash fullnode, daemon and cli tool |
