@@ -70,6 +70,7 @@ scoop install zecwallet-cli
 | [NetSurf](https://www.netsurf-browser.org) | NetSurf is a multi-platform web browser |
 | [Otter Browser](https://otter-browser.org/) | Browser that aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5  |
 | [Qmmp](http://qmmp.ylsoftware.com) | Qt-based Multimedia Player |
+| [](https://sioyek.info/) | PDF viewer designed for reading research papers and technical books |
 | [Slu](https://github.com/sikalabs/slu) | Sika Labs utilities |
 | [Vlang](https://vlang.io) | Simple, fast, safe, compiled. For developing maintainable software |
 | [Wait-for-it](https://github.com/roerohan/wait-for-it) | Wait on the availability of a TCP host and port |
