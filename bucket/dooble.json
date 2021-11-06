@@ -1,10 +1,10 @@
 {
-    "version": "2021.08.30",
+    "version": "2021.11.05",
     "description": "The scientific browser. Minimal, cute, and unusually stable. Completed.",
     "homepage": "https://textbrowser.github.io/dooble/",
     "license": "BSD-3-Clause",
-    "url": "https://github.com/textbrowser/dooble/releases/download/2021.08.30/Dooble.zip",
-    "hash": "24431602c40bffdfb194113c3aad65f2e660de637b97ce7c6ba8ae5d6ba0ba37",
+    "url": "https://github.com/textbrowser/dooble/releases/download/2021.11.05/Dooble.zip",
+    "hash": "13e31cb6638ffd3ba82e1285eb43b24f246fa5f26f78f4460834216eeae89b35",
     "extract_dir": "Dooble",
     "bin": "Dooble.exe",
     "shortcuts": [
