@@ -1,13 +1,13 @@
 {
-    "version": "1.8.3",
+    "version": "1.9.0",
     "description": "A desktop GUI client for browsing Geminispace",
     "homepage": "https://github.com/skyjake/lagrange",
     "license": "BSD-2-Clause",
     "persist": "userdata",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/skyjake/lagrange/releases/download/v1.8.3/lagrange_v1.8.3_windows-x64_portable.zip",
-            "hash": "cccc303fc540ff074d240d18813c507e6ee65897a5143448ec1f6dadc45b6a18"
+            "url": "https://github.com/skyjake/lagrange/releases/download/v1.9.0/lagrange_v1.9.0_windows-x64_portable.zip",
+            "hash": "eb82c7484ab1a67ea7b9bea9e3d9db8e78de56c2de56c8f2bf1e007bb0f3f981"
         }
     },
     "bin": [
