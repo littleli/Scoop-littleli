@@ -1,12 +1,12 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.1",
     "description": "World's fastest immutable database - admin",
     "homepage": "https://www.codenotary.com/technologies/immudb/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vchain-us/immudb/releases/download/v1.1.0/immuadmin-v1.1.0-windows-amd64.exe#/immuadmin.exe",
-            "hash": "f021e01f0c9af7481b637e51b320fda89f254e7fe27d9973bc337375eef6afd1"
+            "url": "https://github.com/vchain-us/immudb/releases/download/v1.2.1/immuadmin-v1.2.1-windows-amd64.exe#/immuadmin.exe",
+            "hash": "a354b71c37b62fd9eb9d7d960412b77bf710d6f8c463ef58aa65f09562cc3599"
         }
     },
     "bin": "immuadmin.exe",
