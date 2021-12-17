@@ -36,6 +36,7 @@ scoop install otter-browser
 scoop install qmmp
 scoop install sioyek
 scoop install slu
+scoop install tailwindcss
 scoop install vlang
 scoop install wait-for-it
 sooop install zcashd
@@ -73,6 +74,7 @@ scoop install zecwallet-cli
 | [Qmmp](http://qmmp.ylsoftware.com) | Qt-based Multimedia Player |
 | [Sioyek](https://sioyek.info/) | PDF viewer designed for reading research papers and technical books |
 | [Slu](https://github.com/sikalabs/slu) | Sika Labs utilities |
+| [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) | TailwindCSS framework CLI for rapid UI development |
 | [Vlang](https://vlang.io) | Simple, fast, safe, compiled. For developing maintainable software |
 | [Wait-for-it](https://github.com/roerohan/wait-for-it) | Wait on the availability of a TCP host and port |
 | [ZCashD](https://z.cash) | ZCash fullnode, daemon and cli tool |
