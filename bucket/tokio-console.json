@@ -10,7 +10,10 @@
         }
     },
     "bin": "tokio-console.exe",
-    "checkver": "github",
+    "checkver": {
+        "regex": "/releases/tag/tokio-console-v([\\d.]+)",
+        "url": "https://github.com/tokio-rs/console/releases/latest"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {
