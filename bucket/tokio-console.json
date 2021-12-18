@@ -1,0 +1,21 @@
+{
+    "version": "0.1.0",
+    "description": "A debugger for async rust!",
+    "homepage": "https://github.com/tokio-rs/console",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/tokio-rs/console/releases/download/tokio-console-v0.1.0/tokio-console-x86_64-pc-windows-msvc.zip",
+            "hash": "cc9ff36dd8aacd74fcd63b28bb526704a33dc226b5845ae86307c18f86bd435d"
+        }
+    },
+    "bin": "tokio-console.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/tokio-rs/console/releases/download/tokio-console-v$version/tokio-console-x86_64-pc-windows-msvc.zip"
+            }
+        }
+    }
+}
