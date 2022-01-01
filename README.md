@@ -10,6 +10,7 @@ scoop bucket add scoop-littleli https://github.com/littleli/Scoop-littleli.git
 scoop update
 
 # pick a scoop package you like from the following
+scoop install 7800basic
 scoop install agate
 scoop install amfora
 scoop install csvdiff
@@ -49,6 +50,7 @@ scoop install zecwallet-cli
 
 | Application | Description |
 |-|-|
+| [7800Basic](https://github.com/7800-devtools/7800basic) | A Basic Compiler for the Atari 7800 |
 | [AGate](https://github.com/mbrubeck/agate) | A very simple server for the Gemini hypertext protocol |
 | [Amfora](https://github.com/makeworld-the-better-one/amfora) | A fancy terminal browser for the Gemini protocol |
 | [Csvdiff](https://aswinkarthik.github.io/csvdiff) | A fast diff tool for comparing csv files |
