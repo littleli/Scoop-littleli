@@ -65,7 +65,7 @@ scoop install zecwallet-cli
 | [Hercules](https://github.com/src-d/hercules) | Acquire advanced insights from Git repository history |
 | [IceChat](https://www.icechat.net) | An open source IRC Client written in C# using WinForms |
 | [ImmuDB](https://github.com/codenotary/immudb) | World's fastest immutable database. Admin, client and server |
-| [Janet](https://janet-lang.org) | Was oved to official `main` scoop bucket |
+| [Janet](https://janet-lang.org) | Was moved to official `main` scoop bucket |
 | [JEdit](http://jedit.org) | Programmer's Text Editor |
 | [Lagrange](https://github.com/skyjake/lagrange) | A desktop GUI client for browsing Geminispace |
 | [LLVM-MinGW](https://github.com/mstorsjo/llvm-mingw) | An LLVM/Clang/LLD based mingw-w64 toolchain |
