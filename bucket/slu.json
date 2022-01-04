@@ -1,16 +1,16 @@
 {
-    "version": "0.27.1",
+    "version": "0.28.0",
     "description": "SikaLabs Utils",
     "homepage": "https://github.com/sikalabs/slu",
     "license": "Freeware",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/sikalabs/slu/releases/download/v0.27.1/slu_v0.27.1_windows_386.tar.gz",
-            "hash": "88e3b19d475b92ce6070100cea5f8c2c109ebc2446a2699c25c01e3b9fc2fb1c"
+            "url": "https://github.com/sikalabs/slu/releases/download/v0.28.0/slu_v0.28.0_windows_386.tar.gz",
+            "hash": "6df76d1b9e2f9bd16e64a93f0bcdb92413233751b6ec79149af0e5acd24153da"
         },
         "64bit": {
-            "url": "https://github.com/sikalabs/slu/releases/download/v0.27.1/slu_v0.27.1_windows_amd64.tar.gz",
-            "hash": "4923620116976e8fa19a0a7736a68881cbbfedaa28e51700b49ebb6d41a2e0eb"
+            "url": "https://github.com/sikalabs/slu/releases/download/v0.28.0/slu_v0.28.0_windows_amd64.tar.gz",
+            "hash": "7f16fb630e02f8aaae4f12eb5e6a01baf20d748ed16303e9f4042e34876a8ae3"
         }
     },
     "bin": "slu.exe",
