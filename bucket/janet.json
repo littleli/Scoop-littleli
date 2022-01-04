@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/janet-lang/janet/releases/download/v1.19.2/janet-v1.19.2-windows-x64-installer.msi",
+            "url": "https://github.com/janet-lang/janet/releases/download/v1.19.2/janet-1.19.2-windows-x64-installer.msi",
             "hash": "71a7bbf93f6dd3f64c629ae04a5adfcff28528558b0a28f4f226b32a56d85cda"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/janet-lang/janet/releases/download/v$version/janet-v$version-windows-x64-installer.msi"
+                "url": "https://github.com/janet-lang/janet/releases/download/v$version/janet-$version-windows-x64-installer.msi"
             }
         }
     }
