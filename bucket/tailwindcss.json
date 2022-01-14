@@ -1,12 +1,12 @@
 {
-    "version": "3.0.13",
+    "version": "3.0.14",
     "description": "TailwindCSS framework CLI for rapid UI development",
     "homepage": "https://github.com/tailwindlabs/tailwindcss",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tailwindlabs/tailwindcss/releases/download/v3.0.13/tailwindcss-windows-x64.exe#/tailwindcss.exe",
-            "hash": "ac4637a0c183f530f6454dc48b6594807316fad41b2762ff9ce42f44de897232"
+            "url": "https://github.com/tailwindlabs/tailwindcss/releases/download/v3.0.14/tailwindcss-windows-x64.exe#/tailwindcss.exe",
+            "hash": "2f06b45788e3543b6d7dd75fbc2bf75183928af59ec7eceb6d925c2983c60601"
         }
     },
     "bin": "tailwindcss.exe",
