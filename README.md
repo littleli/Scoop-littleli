@@ -19,7 +19,6 @@ scoop install dbmate
 scoop install dooble
 scoop install doom-remake4
 scoop install duckdb
-scoop install fselect
 scoop install gemget
 scoop install gron
 scoop install harbour
@@ -57,7 +56,6 @@ scoop install zecwallet-cli
 | [Dooble](https://textbrowser.github.io/dooble/) | The scientific browser. Minimal, cute, and unusually stable. Completed. |
 | [Doom Remake 4](https://archive.org/details/doom_remake_4_download) | Mod compilation pack to bring Doom into the modern era |
 | [DuckDB](https://duckdb.org) | An embeddable SQL OLAP database management system |
-| [Fselect](https://github.com/jhspetersson/fselect) | Find files with SQL-like queries |
 | [Gemget](https://github.com/makeworld-the-better-one/gemget) | Command line downloader for the Gemini protocol |
 | [Gron](https://github.com/tomnomnom/gron) | Transform JSON into discrete assignments to make it easier to grep |
 | [Harbour](https://harbour.github.io) | The cross-platform xBase |
