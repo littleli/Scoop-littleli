@@ -1,5 +1,5 @@
 {
-    "version": "3.5.0",
+    "version": "3.5.1",
     "description": "Reads and displays executable file properties and structure",
     "homepage": "http://mitec.cz/exe.html",
     "license": {
@@ -7,7 +7,7 @@
         "url": "http://mitec.cz/exe.html#licence"
     },
     "url": "http://mitec.cz/Downloads/EXE.zip",
-    "hash": "1bf946a5e0faf990275bb1213b344aae1181795ee6e0b1b1320f8c3db7ea78cf",
+    "hash": "86573b2455a2ce7f8d4997a17170044b8f62a258923bdddc1982ac8f2213544b",
     "architecture": {
         "64bit": {
             "bin": [
