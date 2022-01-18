@@ -2,6 +2,9 @@
 
 This is a collection of interesting Windows applications I use from time to time.
 
+I'm in process of migrating stuff from here to official scoop buckets `main` and `extras`.
+Stuff not eligible for migration (not accepted by maintainers) will remain here.
+
 ## Installation
 
 ```sh
