@@ -18,10 +18,8 @@ scoop install agate
 scoop install amfora
 scoop install csvdiff
 scoop install csvq
-scoop install dbmate
 scoop install dooble
 scoop install doom-remake4
-scoop install duckdb
 scoop install gemget
 scoop install gron
 scoop install harbour
@@ -55,10 +53,10 @@ scoop install zecwallet-cli
 | [Amfora](https://github.com/makeworld-the-better-one/amfora) | A fancy terminal browser for the Gemini protocol |
 | [Csvdiff](https://aswinkarthik.github.io/csvdiff) | A fast diff tool for comparing csv files |
 | [Csvq](https://mithrandie.github.io/csvq) | SQL-like query language for csv |
-| [DbMate](https://github.com/amacneil/dbmate) | A lightweight, framework-agnostic database migration tool |
+| [DbMate](https://github.com/amacneil/dbmate) | Moved to official `main` scoop bucket |
 | [Dooble](https://textbrowser.github.io/dooble/) | The scientific browser. Minimal, cute, and unusually stable. Completed. |
 | [Doom Remake 4](https://archive.org/details/doom_remake_4_download) | Mod compilation pack to bring Doom into the modern era |
-| [DuckDB](https://duckdb.org) | An embeddable SQL OLAP database management system |
+| [DuckDB](https://duckdb.org) | Moved to official `main` scoop bucket |
 | [Gemget](https://github.com/makeworld-the-better-one/gemget) | Command line downloader for the Gemini protocol |
 | [Gron](https://github.com/tomnomnom/gron) | Transform JSON into discrete assignments to make it easier to grep |
 | [Harbour](https://harbour.github.io) | The cross-platform xBase |
