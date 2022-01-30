@@ -65,7 +65,6 @@ scoop install zecwallet-cli
 | [ImmuDB](https://github.com/codenotary/immudb) | World's fastest immutable database. Admin, client and server |
 | [Janet](https://janet-lang.org) | Was moved to official `main` scoop bucket |
 | [JEdit](http://jedit.org) | Programmer's Text Editor |
-| [Lagrange](https://github.com/skyjake/lagrange) | A desktop GUI client for browsing Geminispace |
 | [LLVM-MinGW](https://github.com/mstorsjo/llvm-mingw) | An LLVM/Clang/LLD based mingw-w64 toolchain |
 | [MPD](https://www.musicpd.org) | Famous MPD. It can play a variety of sound files while being controlled by its network protocol |
 | [Mpg123](https://www.mpg123.org) | Fast console MPEG Audio Player and decoder library |
