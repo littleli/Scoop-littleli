@@ -21,16 +21,13 @@ scoop install csvq
 scoop install dooble
 scoop install doom-remake4
 scoop install gemget
-scoop install gron
 scoop install harbour
 scoop install hercules
 scoop install icechat
 scoop install immuadmin immuclient immudb
 scoop install jedit
-scoop install lagrange
 scoop install llvm-mingw
 scoop install mpd
-scoop install mpg123
 scoop install netsurf
 scoop install otter-browser
 scoop install qmmp
@@ -53,21 +50,16 @@ scoop install zecwallet-cli
 | [Amfora](https://github.com/makeworld-the-better-one/amfora) | A fancy terminal browser for the Gemini protocol |
 | [Csvdiff](https://aswinkarthik.github.io/csvdiff) | A fast diff tool for comparing csv files |
 | [Csvq](https://mithrandie.github.io/csvq) | SQL-like query language for csv |
-| [DbMate](https://github.com/amacneil/dbmate) | Moved to official `main` scoop bucket |
 | [Dooble](https://textbrowser.github.io/dooble/) | The scientific browser. Minimal, cute, and unusually stable. Completed. |
 | [Doom Remake 4](https://archive.org/details/doom_remake_4_download) | Mod compilation pack to bring Doom into the modern era |
-| [DuckDB](https://duckdb.org) | Moved to official `main` scoop bucket |
 | [Gemget](https://github.com/makeworld-the-better-one/gemget) | Command line downloader for the Gemini protocol |
-| [Gron](https://github.com/tomnomnom/gron) | Transform JSON into discrete assignments to make it easier to grep |
 | [Harbour](https://harbour.github.io) | The cross-platform xBase |
 | [Hercules](https://github.com/src-d/hercules) | Acquire advanced insights from Git repository history |
 | [IceChat](https://www.icechat.net) | An open source IRC Client written in C# using WinForms |
 | [ImmuDB](https://github.com/codenotary/immudb) | World's fastest immutable database. Admin, client and server |
-| [Janet](https://janet-lang.org) | Was moved to official `main` scoop bucket |
 | [JEdit](http://jedit.org) | Programmer's Text Editor |
 | [LLVM-MinGW](https://github.com/mstorsjo/llvm-mingw) | An LLVM/Clang/LLD based mingw-w64 toolchain |
 | [MPD](https://www.musicpd.org) | Famous MPD. It can play a variety of sound files while being controlled by its network protocol |
-| [Mpg123](https://www.mpg123.org) | Fast console MPEG Audio Player and decoder library |
 | [NetSurf](https://www.netsurf-browser.org) | NetSurf is a multi-platform web browser |
 | [Otter Browser](https://otter-browser.org/) | Browser that aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5  |
 | [Qmmp](http://qmmp.ylsoftware.com) | Qt-based Multimedia Player |
