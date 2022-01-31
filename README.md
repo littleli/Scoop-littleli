@@ -16,6 +16,7 @@ scoop update
 scoop install 7800basic
 scoop install agate
 scoop install amfora
+scoop install haskell-breeze
 scoop install csvdiff
 scoop install csvq
 scoop install dooble
@@ -48,6 +49,7 @@ scoop install zecwallet-cli
 | [7800Basic](https://github.com/7800-devtools/7800basic) | A Basic Compiler for the Atari 7800 |
 | [AGate](https://github.com/mbrubeck/agate) | A very simple server for the Gemini hypertext protocol |
 | [Amfora](https://github.com/makeworld-the-better-one/amfora) | A fancy terminal browser for the Gemini protocol |
+| [Haskell-breeze](https://github.com/easafe/haskell-breeze) | Convert HTML into purescript-flame DSL |
 | [Csvdiff](https://aswinkarthik.github.io/csvdiff) | A fast diff tool for comparing csv files |
 | [Csvq](https://mithrandie.github.io/csvq) | SQL-like query language for csv |
 | [Dooble](https://textbrowser.github.io/dooble/) | The scientific browser. Minimal, cute, and unusually stable. Completed. |
