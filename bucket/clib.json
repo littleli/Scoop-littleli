@@ -10,7 +10,17 @@
             "extract_dir": "clib-win"
         }
     },
-    "bin": "clib.exe",
+    "bin": [
+        "clib.exe",
+        "clib-build.exe",
+        "clib-configure.exe",
+        "clib-init.exe",
+        "clib-install.exe",
+        "clib-search.exe",
+        "clib-uninstall.exe",
+        "clib-update.exe",
+        "clib-upgrade.exe"
+    ],
     "checkver": {
         "github": "https://github.com/clibs/clib"
     },
