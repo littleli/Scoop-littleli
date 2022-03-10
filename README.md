@@ -36,6 +36,7 @@ scoop install qmmp
 scoop install sioyek
 scoop install slu
 scoop install tokio-console
+scoop install tdu
 scoop install vlang
 scoop install wait-for-it
 sooop install zcashd
@@ -70,6 +71,7 @@ scoop install zecwallet-cli
 | [Sioyek](https://sioyek.info/) | PDF viewer designed for reading research papers and technical books |
 | [Slu](https://github.com/sikalabs/slu) | Sika Labs utilities |
 | [TokioConsole](https://github.com/tokio-rs/console) | A debugger for async Rust |
+| [TDU](https://github.com/josephpaul0/tdu) | Top Disk Usage |
 | [Vlang](https://vlang.io) | Simple, fast, safe, compiled. For developing maintainable software |
 | [Wait-for-it](https://github.com/roerohan/wait-for-it) | Wait on the availability of a TCP host and port |
 | [ZCashD](https://z.cash) | ZCash fullnode, daemon and cli tool |
