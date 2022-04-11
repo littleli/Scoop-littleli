@@ -20,6 +20,7 @@ scoop install haskell-breeze
 scoop install clib
 scoop install csvdiff
 scoop install csvq
+scoop install difftastic
 scoop install dooble
 scoop install doom-remake4
 scoop install gemget
@@ -56,6 +57,7 @@ scoop install zecwallet-cli
 | [Clib](https://github.com/clibs/clib) | Package manager for the C programming language |
 | [Csvdiff](https://aswinkarthik.github.io/csvdiff) | A fast diff tool for comparing csv files |
 | [Csvq](https://mithrandie.github.io/csvq) | SQL-like query language for csv |
+| [Difftastic](https://difftastic.wilfred.me.uk) | An experimental diff tool that compares files based on their syntax |
 | [Dooble](https://textbrowser.github.io/dooble/) | The scientific browser. Minimal, cute, and unusually stable. Completed. |
 | [Doom Remake 4](https://archive.org/details/doom_remake_4_download) | Mod compilation pack to bring Doom into the modern era |
 | [Gemget](https://github.com/makeworld-the-better-one/gemget) | Command line downloader for the Gemini protocol |
