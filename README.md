@@ -43,6 +43,7 @@ scoop install tdu
 scoop install tic80
 scoop install vlang
 scoop install wait-for-it
+scoop install xasm
 sooop install zcashd
 scoop install zecwallet-lite
 scoop install zecwallet-cli
@@ -82,6 +83,7 @@ scoop install zecwallet-cli
 | [TIC80](https://tic80.com) | TIC-80 is a fantasy computer for making, playing and sharing tiny games |
 | [Vlang](https://vlang.io) | Simple, fast, safe, compiled. For developing maintainable software |
 | [Wait-for-it](https://github.com/roerohan/wait-for-it) | Wait on the availability of a TCP host and port |
+| [XAsm](https://github.com/pfusik/xasm) | 6502 cross-assembler with original syntax extensions |
 | [ZCashD](https://z.cash) | ZCash fullnode, daemon and cli tool |
 | [Zecwallet Lite](https://www.zecwallet.co) | ZCash Wallet Desktop Client application |
 | [Zecwallet CLI](https://www.zecwallet.co) | ZCash command-line interface utility |
