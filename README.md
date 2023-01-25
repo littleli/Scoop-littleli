@@ -17,7 +17,6 @@ scoop install 7800basic
 scoop install agate
 scoop install amfora
 scoop install haskell-breeze
-scoop install charm-gum
 scoop install clib
 scoop install csvdiff
 scoop install csvq
@@ -57,7 +56,6 @@ scoop install zecwallet-cli
 | [AGate](https://github.com/mbrubeck/agate) | A very simple server for the Gemini hypertext protocol |
 | [Amfora](https://github.com/makeworld-the-better-one/amfora) | A fancy terminal browser for the Gemini protocol |
 | [Haskell-breeze](https://github.com/easafe/haskell-breeze) | Convert HTML into purescript-flame DSL |
-| [Charm-Gum](https://github.com/charmbracelet/gum) | A tool for glamorous shell scripts 🎀 |
 | [Clib](https://github.com/clibs/clib) | Package manager for the C programming language |
 | [Csvdiff](https://aswinkarthik.github.io/csvdiff) | A fast diff tool for comparing csv files |
 | [Csvq](https://mithrandie.github.io/csvq) | SQL-like query language for csv |
