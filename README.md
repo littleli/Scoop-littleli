@@ -30,6 +30,7 @@ scoop install hercules
 scoop install icechat
 scoop install immuadmin immuclient immudb
 scoop install jedit
+scoop install koka-lang
 scoop install llvm-mingw
 scoop install mpd
 scoop install netsurf
@@ -69,6 +70,7 @@ scoop install zecwallet-cli
 | [IceChat](https://www.icechat.net) | An open source IRC Client written in C# using WinForms |
 | [ImmuDB](https://github.com/codenotary/immudb) | World's fastest immutable database. Admin, client and server |
 | [JEdit](http://jedit.org) | Programmer's Text Editor |
+| [Koka programming language](https://koka-lang.org) | Koka language compiler and interpreter |
 | [LLVM-MinGW](https://github.com/mstorsjo/llvm-mingw) | An LLVM/Clang/LLD based mingw-w64 toolchain |
 | [MPD](https://www.musicpd.org) | Famous MPD. It can play a variety of sound files while being controlled by its network protocol |
 | [NetSurf](https://www.netsurf-browser.org) | NetSurf is a multi-platform web browser |
