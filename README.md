@@ -24,6 +24,7 @@ scoop install difftastic
 scoop install dooble
 scoop install doom-remake4
 scoop install gemget
+scoop install gh-dash
 scoop install glazewm
 scoop install harbour
 scoop install hercules
@@ -65,6 +66,7 @@ scoop install zecwallet-cli
 | [Dooble](https://textbrowser.github.io/dooble/) | The scientific browser. Minimal, cute, and unusually stable. Completed. |
 | [Doom Remake 4](https://archive.org/details/doom_remake_4_download) | Mod compilation pack to bring Doom into the modern era |
 | [Gemget](https://github.com/makeworld-the-better-one/gemget) | Command line downloader for the Gemini protocol |
+| [Gh-dash](https://github.com/dlvhdr/gh-dash) | CLI extension to display a dashboard with pull requests and issues by filters you care about |
 | [GlazeWM](https://github.com/lars-berger/GlazeWM) | A tiling window manager for Windows inspired by i3 and Polybar |
 | [Harbour](https://harbour.github.io) | The cross-platform xBase |
 | [Hercules](https://github.com/src-d/hercules) | Acquire advanced insights from Git repository history |
