@@ -30,9 +30,6 @@
             "arm64": {
                 "url": "https://github.com/dlvhdr/gh-dash/releases/download/v$version/gh-dash_v$version_windows-arm64.exe#/gh-dash.exe"
             }
-        },
-        "hash": {
-            "url": "$baseurl/checksum.txt"
         }
     }
 }
