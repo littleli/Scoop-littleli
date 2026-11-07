@@ -37,6 +37,7 @@ scoop install mpd
 scoop install nak
 scoop install netsurf
 scoop install otter-browser
+scoop install ponyup
 scoop install qmmp
 scoop install sioyek
 scoop install slu
@@ -79,6 +80,7 @@ scoop install zecwallet-cli
 | [Nak](https://github.com/fiatjaf/nak) | The nostr army knife |
 | [NetSurf](https://www.netsurf-browser.org) | NetSurf is a multi-platform web browser |
 | [Otter Browser](https://otter-browser.org/) | Browser that aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5  |
+| [Ponyup](https://github.com/ponylang/ponyup) | The Pony toolchain multiplexer |
 | [Qmmp](http://qmmp.ylsoftware.com) | Qt-based Multimedia Player |
 | [Sioyek](https://sioyek.info/) | PDF viewer designed for reading research papers and technical books |
 | [Slu](https://github.com/sikalabs/slu) | Sika Labs utilities |
