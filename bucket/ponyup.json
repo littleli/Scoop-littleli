@@ -20,23 +20,19 @@
             "-p \"$persist_dir\""
         ]
     ],
-    "persist": [
-        [
-            "ponyup",
-            "."
-        ]
-    ],
+    "persist": "ponyup",
     "env_add_path": "ponyup\\bin",
     "notes": [
         "Install the Pony compiler with: ponyup update ponyc release",
         "Install Corral with: ponyup update corral release"
     ],
     "post_install": [
-        "$prefix = $persist_dir",
+        "$prefix = Join-Path $persist_dir 'ponyup'",
         "New-Item -ItemType Directory -Path (Join-Path $prefix 'bin') -Force | Out-Null",
         "$platformArch = if ($architecture -eq 'arm64') { 'arm64' } else { 'x86_64' }",
         "$platform = \"$platformArch-pc-windows-msvc\"",
-        "Set-Content -Path (Join-Path $prefix '.platform') -Value $platform",
+        "& (Join-Path $dir 'bin\\ponyup.exe') -p $persist_dir default $platform",
+        "if ($LASTEXITCODE -ne 0) { throw 'Ponyup failed to initialize its platform.' }",
         "Set-Content -Path (Join-Path $prefix '.lock') -Value \"ponyup-release-$version-$platformArch-windows\""
     ],
     "checkver": "github",
