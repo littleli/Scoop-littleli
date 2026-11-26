@@ -18,6 +18,7 @@ scoop install agate
 scoop install amfora
 scoop install haskell-breeze
 scoop install clib
+scoop install corral
 scoop install csvdiff
 scoop install csvq
 scoop install difftastic
@@ -37,6 +38,7 @@ scoop install mpd
 scoop install nak
 scoop install netsurf
 scoop install otter-browser
+scoop install ponyc
 scoop install ponyup
 scoop install qmmp
 scoop install sioyek
@@ -61,6 +63,7 @@ scoop install zecwallet-cli
 | [Amfora](https://github.com/makeworld-the-better-one/amfora) | A fancy terminal browser for the Gemini protocol |
 | [Haskell-breeze](https://github.com/easafe/haskell-breeze) | Convert HTML into purescript-flame DSL |
 | [Clib](https://github.com/clibs/clib) | Package manager for the C programming language |
+| [Corral](https://github.com/ponylang/corral) | Dependency manager for the Pony programming language |
 | [Csvdiff](https://aswinkarthik.github.io/csvdiff) | A fast diff tool for comparing csv files |
 | [Csvq](https://mithrandie.github.io/csvq) | SQL-like query language for csv |
 | [Difftastic](https://difftastic.wilfred.me.uk) | An experimental diff tool that compares files based on their syntax |
@@ -81,6 +84,7 @@ scoop install zecwallet-cli
 | [NetSurf](https://www.netsurf-browser.org) | NetSurf is a multi-platform web browser |
 | [Otter Browser](https://otter-browser.org/) | Browser that aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5  |
 | [Ponyup](https://github.com/ponylang/ponyup) | The Pony toolchain multiplexer |
+| [Ponyc](https://github.com/ponylang/ponyc) | Pony compiler and language tools |
 | [Qmmp](http://qmmp.ylsoftware.com) | Qt-based Multimedia Player |
 | [Sioyek](https://sioyek.info/) | PDF viewer designed for reading research papers and technical books |
 | [Slu](https://github.com/sikalabs/slu) | Sika Labs utilities |
