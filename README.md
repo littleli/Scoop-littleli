@@ -47,6 +47,7 @@ scoop install tokio-console
 scoop install tdu
 scoop install tic80
 scoop install vlang
+scoop install vs-buildtools2022
 scoop install wait-for-it
 scoop install xasm
 sooop install zcashd
@@ -92,6 +93,7 @@ scoop install zecwallet-cli
 | [TDU](https://github.com/josephpaul0/tdu) | Top Disk Usage |
 | [TIC80](https://tic80.com) | TIC-80 is a fantasy computer for making, playing and sharing tiny games |
 | [Vlang](https://vlang.io) | Simple, fast, safe, compiled. For developing maintainable software |
+| [Visual Studio Build Tools 2022](https://visualstudio.microsoft.com/visual-cpp-build-tools/) | System installer for MSVC tools and Windows 11 SDK; suggested for Ponyc |
 | [Wait-for-it](https://github.com/roerohan/wait-for-it) | Wait on the availability of a TCP host and port |
 | [XAsm](https://github.com/pfusik/xasm) | 6502 cross-assembler with original syntax extensions |
 | [ZCashD](https://z.cash) | ZCash fullnode, daemon and cli tool |

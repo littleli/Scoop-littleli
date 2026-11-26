@@ -31,6 +31,9 @@
         "Requires Windows 11 or Windows Server 2022 (build 20348) or later.",
         "Building executables requires Microsoft C++ Build Tools with MSVC libraries and Windows SDK 10.0.20348.0 or newer."
     ],
+    "suggest": {
+        "MSVC libraries and Windows SDK": "vs-buildtools2022"
+    },
     "checkver": "github",
     "autoupdate": {
         "architecture": {
